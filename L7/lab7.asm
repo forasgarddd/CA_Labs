@@ -6,7 +6,7 @@ stack 512
 
 dataseg
     ; Array to find a min number in
-    matrix  DW 8, 8, 0, 1, 0, 0, 7, 5, 8, 4, 0, 5, 7, 0, 8, 6 
+    matrix  DW 8, 8, 0, 1, 0, 0, 3, 5, 8, 4, 0, 5, 7, 0, 8, 6 
 
             DW 9, 3, 5, 5, 5, 9, 6, 5, 8, 1, 5, 1, 5, 6, 5, 9
 
