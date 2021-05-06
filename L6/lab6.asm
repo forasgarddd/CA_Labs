@@ -12,7 +12,7 @@ DATASEG
 teamNumber db "team 2:", 10,13, '$' ; string for output
 kryvonosiuk db "Kryvonosiuk Vitalii", 10,13, '$' ; string for output
 brazhnik db "Brazhnyk Olexandr", 10,13, '$' ; string for output
-devitskiy db "Devitskiy Ivan", 10,13, '$' ; string for output
+devitskiy db "Devitskyi Ivan", 10,13, '$' ; string for output
 ;-----------------------------------------------------------------------------------------------------------
 CODESEG
 Start: 
